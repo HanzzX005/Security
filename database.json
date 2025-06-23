@@ -6,17 +6,10 @@
       "number": "6285640285529",
       "registered": "2025-06-05T12:48:10.145Z"
     },
-  "users": [
     {
-      "username": "zhuu",
-      "password": "zhuu",
+      "username": "miko",
+      "password": "miko",
       "number": "6281234097869",
-      "registered": "2025-06-05T12:48:10.145Z"
-    },
-    {
-      "username": "0x0a",
-      "password": "0x2c",
-      "number": "0x2c",
       "registered": "2025-06-05T13:02:26.430Z"
     }
   ],
